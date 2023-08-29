@@ -25,6 +25,7 @@ Número de viajes IFOP y Control cuota
 891 + 412
 a<-rnorm(1000)
 plot(a)
+hist(a)
 
 ```
 
