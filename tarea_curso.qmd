@@ -1,0 +1,27 @@
+---
+title: "Informe Crustáceos"
+author: "Diana Parraga"
+format: docx
+editor: visual
+---
+
+## Antecedentes
+
+El reconocimiento de los productos acuáticos como fuente de proteína y proveedores únicos de ácidos grasos omega-3 y micronutrientes biodisponibles esenciales, los coloca como parte fundamentales en la nutrición mundial. Esto hace ver la necesitad de manejar de manera sostenible los recursos pesqueros y enfocar los esfuerzos, en la elaboración de políticas, programas de ordenamiento y prácticas que garanticen la utilización sostenible de los recursos acuáticos. De esta manera contribuir al bienestar nutricional, económico y social de la población (FAO, 2022). <https://fao.org>.
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
