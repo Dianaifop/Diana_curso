@@ -11,7 +11,7 @@ El reconocimiento de los productos acuáticos como fuente de proteína y proveed
 
 ##Desembarque de crustáceos
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+Desembarque de crust�ceos:
 
 ```{r}
 1 + 1
@@ -26,10 +26,10 @@ Número de viajes IFOP y Control cuota
 
 ```
 
-| Año  | Camarón | Langostino amarillo | Langostino colorado |
-|------|---------|---------------------|---------------------|
-| 2022 | 622     | 584                 | 475                 |
-| 2021 | 734     | 891                 | 378                 |
-| 2020 | 699     | 1535                | 387                 |
+| Año | Camarón | Langostino amarillo | Langostino colorado |
+|------|----------|---------------------|---------------------|
+| 2022 | 622      | 584                 | 475                 |
+| 2021 | 734      | 891                 | 378                 |
+| 2020 | 699      | 1535                | 387                 |
 
 The `echo: false` option disables the printing of code (only output is displayed).
