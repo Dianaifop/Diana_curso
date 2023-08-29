@@ -26,4 +26,10 @@ You can add options to executable code like this
 10 * 10
 ```
 
+| Camaron  | langostino amarillo  | Langostino colorado |
+|----------|----------------------|---------------------|
+| 150      | 50                   | 89                  |
+| 200      | 25                   | 60                  |
+| 180      | 10                   | 100                 |
+
 The `echo: false` option disables the printing of code (only output is displayed).
