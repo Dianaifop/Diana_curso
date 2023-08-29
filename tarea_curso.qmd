@@ -23,6 +23,8 @@ Número de viajes IFOP y Control cuota
 #| echo: false
 238 + 48
 891 + 412
+a<-rnorm(1000)
+plot(a)
 
 ```
 
