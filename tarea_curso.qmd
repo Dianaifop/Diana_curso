@@ -11,10 +11,8 @@ El reconocimiento de los productos acuáticos como fuente de proteína y proveed
 
 ##Desembarque de crustáceos
 
-Desembarque de crust?ceos:
-
 ```{r}
-1 + 1
+
 ```
 
 Número de viajes IFOP y Control cuota
@@ -35,4 +33,4 @@ hist(a)
 | 2021 | 734     | 891                 | 378                 |
 | 2020 | 699     | 1535                | 387                 |
 
-The `echo: false` option disables the printing of code (only output is displayed).
+Tabla con valores de desembarque por año
