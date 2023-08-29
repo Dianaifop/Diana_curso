@@ -9,7 +9,7 @@ editor: visual
 
 El reconocimiento de los productos acuáticos como fuente de proteína y proveedores únicos de ácidos grasos omega-3 y micronutrientes biodisponibles esenciales, los coloca como parte fundamentales en la nutrición mundial. Esto hace ver la necesitad de manejar de manera sostenible los recursos pesqueros y enfocar los esfuerzos, en la elaboración de políticas, programas de ordenamiento y prácticas que garanticen la utilización sostenible de los recursos acuáticos. De esta manera contribuir al bienestar nutricional, económico y social de la población (FAO, 2022). <https://fao.org>.
 
-## Running Code
+##Desembarque de crustáceos
 
 When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
 
@@ -17,19 +17,19 @@ When you click the **Render** button a document will be generated that includes 
 1 + 1
 ```
 
-You can add options to executable code like this
+Número de viajes IFOP y Control cuota
 
 ```{r}
 #| echo: false
-2 * 2
-5 * 5
-10 * 10
+238 + 48
+891 + 412
+
 ```
 
-| Camaron  | langostino amarillo  | Langostino colorado |
-|----------|----------------------|---------------------|
-| 150      | 50                   | 89                  |
-| 200      | 25                   | 60                  |
-| 180      | 10                   | 100                 |
+| Año  | Camarón | Langostino amarillo | Langostino colorado |
+|------|---------|---------------------|---------------------|
+| 2022 | 622     | 584                 | 475                 |
+| 2021 | 734     | 891                 | 378                 |
+| 2020 | 699     | 1535                | 387                 |
 
 The `echo: false` option disables the printing of code (only output is displayed).
